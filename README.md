@@ -3,8 +3,7 @@ To give people an estimate of how much they need based on their individual healt
 
 Data source _: https://www.kaggle.com/noordeen/insurance-premium-prediction
 Approach:
-
-    Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and model testing to build a solution that should able to predict the premium of the personal for health insurance.
+Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and model testing to build a solution that should able to predict the premium of the personal for health insurance.
 
     Data Exploration : Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
     Exploratory Data Analysis : Plotted different graphs to get more insights about dependent and independent variables/features.
@@ -17,9 +16,6 @@ Approach:
     Webpage &Deployment : Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the Render Platform.
 
 Deployed on web using Render :- https://insurance-premium-prediction-pgzp.onrender.com/
-Screenshots
-
-UI
 
 
 Libraries used :
